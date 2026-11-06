@@ -105,3 +105,5 @@ Smooth out the sudden difficulty spikes: Review and rebalance the difficulty for
 
 # Question 3 - Visualisations:
 [View GCG Data Analyst Test - Visuals PDF](https://github.com/Shakthivelm26/GCG-Data-Analyst-Test/blob/main/GCG%20Data%20Analyst%20Test%20-%20Visuals.pdf)
+
+[Download/View Tableau Workbook (.twb)](https://github.com/Shakthivelm26/GCG-Data-Analyst-Test/blob/main/GCG%20Data%20Analyst%20Test.twb)
