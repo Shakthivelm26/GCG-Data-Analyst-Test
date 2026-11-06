@@ -103,5 +103,5 @@ Why It Matters
 Smooth out the sudden difficulty spikes: Review and rebalance the difficulty for Player Rank 9 and Maps 706 & 703 (which have abnormally low win rates of 17.2% and 23.7%) to prevent early player frustration and improve early-to-mid game retention.
 <img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/bb9cfb12-1e63-4444-99d0-ce0080e4fc31" />
 
-
 # Question 3 - Visualisations:
+[View GCG Data Analyst Test - Visuals PDF](https://github.com/Shakthivelm26/GCG-Data-Analyst-Test/blob/main/GCG%20Data%20Analyst%20Test%20-%20Visuals.pdf)
