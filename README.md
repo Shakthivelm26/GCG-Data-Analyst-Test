@@ -1,6 +1,6 @@
 # GCG-Data-Analyst-Test
 
-# Key Metrics for Assessing the Health of a Mobile Free-to-Play Game
+# Q1: Key Metrics for Assessing the Health of a Mobile Free-to-Play Game
 
 No single metric captures the overall health of a free-to-play game. I'd assess five key areas to understand the game's performance:
 
@@ -84,3 +84,24 @@ Why It Matters
 - Helps identify performance issues across different devices.
 - Longer loading times can frustrate players and increase drop-off rates(Friction point).
 - Consistent performance provides a smoother gaming experience and improves player satisfaction.
+
+# Q2
+ - Retention (D1/3/7)
+ <img width="600" height="251" alt="image" src="https://github.com/user-attachments/assets/868d5214-f049-4916-8f63-3dcae22ed9dc" />
+
+
+- Geo and client_os split
+<img width="1251" height="776" alt="image" src="https://github.com/user-attachments/assets/af707f2e-40c2-4766-950f-652478c5c83d" />
+
+- Display the KPI over time
+  Installs, Revenue and ARPPU
+  <img width="986" height="793" alt="image" src="https://github.com/user-attachments/assets/35b75417-24d6-43db-bfd1-58d8754038e2" />
+
+
+- Recommendation or insight for the campaign battles.
+
+Smooth out the sudden difficulty spikes: Review and rebalance the difficulty for Player Rank 9 and Maps 706 & 703 (which have abnormally low win rates of 17.2% and 23.7%) to prevent early player frustration and improve early-to-mid game retention.
+<img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/bb9cfb12-1e63-4444-99d0-ce0080e4fc31" />
+
+
+# Question 3 - Visualisations:
