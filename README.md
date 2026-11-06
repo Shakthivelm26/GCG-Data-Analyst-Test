@@ -10,7 +10,7 @@ No single metric captures the overall health of a free-to-play game. I'd assess 
 - Is the virtual economy balanced?
 - Where is the game breaking down?
 
-### 1. Retention and XURR's: Is the game worth coming back to?
+### 1. Retention: Is the game worth coming back to?
 
 Key Metrics
 
